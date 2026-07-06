@@ -108,5 +108,17 @@
       "TextActive": true,
       "BigTextActive": true
   }
+  {
+      "id": 5864,
+      "UserID": "usr_10974d1e-17f4-4076-a168-0d81b27e0d7d",
+      "DisplayName": "Ρеnis",
+      "Tag": [""],
+      "PlateBigText": "<color=#0010FF>L</color><color=#190EF9>U</color><color=#330CF4>M</color><color=#4C0BEF>I</color><color=#6609EA>P</color><color=#7F08E5>O</color><color=#9906DF>O</color><color=#B204DA>P</color><color=#CC03D5>I</color><color=#E501D0>O</color>",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
+}
   ]
 }
