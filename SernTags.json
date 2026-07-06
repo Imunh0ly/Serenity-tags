@@ -72,5 +72,17 @@
       "TextActive": true,
       "BigTextActive": true
     }
+    {
+      "id": 1245,
+      "UserID": "usr_c5844ee6-bddc-4c3f-94be-6fe7c1e425fa",
+      "DisplayName": "ׄEavenSTarchilde",
+      "Tag": ["<color=#FF0000>Pedophile</color>""],
+      "PlateBigText": "",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false
+    }
   ]
 }
