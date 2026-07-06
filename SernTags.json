@@ -119,6 +119,18 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
-}
+  }
+  {
+      "id": 67,
+      "UserID": "usr_644e0e42-1892-49a7-a23d-6f5350ce29e0",
+      "DisplayName": "whoknowsLMFAO",
+      "Tag": ["Toxicwasteace Larp is here"],
+      "PlateBigText": "<b><size=90><color=#ff0000>Toxicwasteace Larp is here</color></size></b>",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
+  }
   ]
 }
