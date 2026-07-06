@@ -131,6 +131,18 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
+    },
+    {
+      "id": 1005,
+      "UserID": "usr_00000000-0000-0000-0000-000000000000",
+      "DisplayName": "DisplayNameHere",
+      "Tag": ["UNITY RICH HERE"],
+      "PlateBigText": "UNITY RICH HERE",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
     }
   ]
 }
