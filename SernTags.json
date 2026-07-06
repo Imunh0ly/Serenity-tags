@@ -131,18 +131,6 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
-    },
-    {
-      "id": 1005,
-      "UserID": "usr_604019cd-3ec8-4e8f-9153-28a1c0546475",
-      "DisplayName": "bokitfuh",
-      "Tag": [""],
-      "PlateBigText": "<color=#FFFFFF>j</color><color=#F0F0FE>e</color><color=#E1E2FD>w</color> <color=#C3C6FC>j</color><color=#B4B8FC>e</color><color=#A5AAFB>w</color> <color=#878EFA>j</color><color=#7880F9>e</color><color=#6972F9>w</color> <color=#4B56F7>s</color><color=#3C48F7>a</color><color=#2D3AF6>h</color><color=#1E2CF6>u</color><color=#0F1EF5>r</color>",
-      "Size": "<size=95>",
-      "Malicious": true,
-      "Active": true,
-      "TextActive": true,
-      "BigTextActive": true
     }
   ]
 }
