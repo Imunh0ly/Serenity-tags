@@ -155,6 +155,18 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
+    },
+    {
+      "id": 1000,
+      "UserID": "usr_417bcf4d-57f4-4b50-93f8-ac4f6e0535f8",
+      "DisplayName": "Privatehack",
+      "Tag": [""],
+      "PlateBigText": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\unityt 6 vrc",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
     }
   ]
 }
